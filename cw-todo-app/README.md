@@ -4,7 +4,7 @@
 
 # ✨Pipeline Diagram ✨
 
-![ProjectDiagram](pipeline diagram.png)
+![ProjectDiagram](pipeline-diagram.png)
 
 # ✨Result Nodejs ✨
 
