@@ -3,13 +3,25 @@
 # Result-Version1
 
 <h1 align="center">
-  <img alt="React tetris " title="#React tetris desktop" src="./images/game.jpg" />
+  <img alt="Volume1" title="#React tetris desktop" src="./images/game.png" />
 </h1>
 
 # Result-Version2
 
 <h1 align="center">
-  <img alt="React tetris " title="#React tetris desktop" src="./images/game-2.jpg" />
+  <img alt="Volume2 " title="#React tetris desktop" src="./images/game-2.png" />
+</h1>
+
+# Pipeline-View
+
+<h1 align="center">
+  <img alt="Pipeline-View " title="#React tetris desktop" src="./images/pipeline-view.png" />
+</h1>
+
+# Argo-CD-View
+
+<h1 align="center">
+  <img alt="Argo-CD-View " title="#React tetris desktop" src="./images/argo-cd.png" />
 </h1>
 
 # Jenkins-Plugins
