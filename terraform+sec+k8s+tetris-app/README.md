@@ -3,13 +3,13 @@
 # Result-Version1
 
 <h1 align="center">
-  <img alt="React tetris " title="#React tetris desktop" src="./images/game.jpg" />
+  <img alt="React tetris " title="#React tetris desktop" src="./images/game.png" />
 </h1>
 
 # Result-Version2
 
 <h1 align="center">
-  <img alt="React tetris " title="#React tetris desktop" src="./images/game-2.jpg" />
+  <img alt="React tetris " title="#React tetris desktop" src="./images/game-2.png" />
 </h1>
 
 # Jenkins-Plugins
