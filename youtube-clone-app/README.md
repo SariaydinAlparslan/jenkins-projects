@@ -1,8 +1,8 @@
+For Full Project https://mrcloudbook.hashnode.dev/youtube-app-deployment-with-gitlab-cicd
+
 # Build and Deploy a Modern YouTube Clone Application in React JS with Material UI 5
 
 ![YouTube](youtube-clone-result.png)
-
-https://mrcloudbook.hashnode.dev/youtube-app-deployment-with-gitlab-cicd
 
 ### ✨ SG Port ✨
 
@@ -94,4 +94,4 @@ deploy:
 
 
 ```
-[GitHub](https://github.com/SariaydinAlparslan/pipeline-projects/blob/main/youtube-clone-app/.gitlab-ci.yml)
+
